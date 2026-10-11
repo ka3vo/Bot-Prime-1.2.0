@@ -2,7 +2,7 @@
 
 **Bot Prime — Un bot Discord conçu pour simplifier la gestion de vos serveurs.**
 
-Développé par **stormyxx**, avec la participation de **theblack.moon**.
+Développé par **stormyxx**,
 
 ## 📌 Présentation
 
@@ -10,10 +10,9 @@ Bot Prime est un bot Discord qui propose plusieurs fonctionnalités pour facilit
 
 ## ⚙️ Fonctionnalités
 
-- 🔨 Modération du serveur
+- 🔨 Modération des serveur
 - 🎫 Gestion des tickets
 - 🎭 Rôles par réaction
-- 🎉 Giveaways
 - 🛠️ Configuration et outils pour les serveurs
 
 ## 📦 Version
